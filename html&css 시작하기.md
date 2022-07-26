@@ -22,11 +22,13 @@
 <img width="777" alt="image" src="https://user-images.githubusercontent.com/88610333/180943243-8334b059-c106-4f11-a76a-5b0bdd3464c6.png">
 <img width="777" alt="image" src="https://user-images.githubusercontent.com/88610333/180943539-3d45729a-943a-497c-b9dd-d76c436bb0ab.png">
 <img width="777" alt="image" src="https://user-images.githubusercontent.com/88610333/180944142-321a57bd-fea8-4511-b5a7-cf080e91685b.png">
-<img width="777" alt="image" src="https://user-images.githubusercontent.com/88610333/180944349-8e9b7921-91df-4fc5-976e-7eff90a1bab8.png">
+<img width="692" alt="image" src="https://user-images.githubusercontent.com/88610333/180954130-a7a8840a-263a-4c58-8c95-5dea318ed67b.png">
 
 * https://fonts.google.com/
 * https://fonts.google.com/earlyaccess
 
 <img width="777" alt="image" src="https://user-images.githubusercontent.com/88610333/180951629-b16a29fc-b253-4172-9ff2-77276d4919a3.png">
+<img width="778" alt="image" src="https://user-images.githubusercontent.com/88610333/180954731-82f793de-c587-44d4-81e7-471d8ca5d4cf.png">
+<img width="778" alt="image" src="https://user-images.githubusercontent.com/88610333/180955019-74ec282f-f135-4f36-aca4-042dd2a7ce2f.png">
 
 
