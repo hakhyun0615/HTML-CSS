@@ -30,8 +30,11 @@
 * inline
 <img width="778" alt="image" src="https://user-images.githubusercontent.com/88610333/181159201-79a2d90b-3733-4ee8-bb71-95d7a24458e7.png">
 
+# 가로 가운데 정렬
+<img width="778" alt="image" src="https://user-images.githubusercontent.com/88610333/181162791-1c2fb1c1-b276-46f8-abee-ea737303407b.png">
+<img width="778" alt="image" src="https://user-images.githubusercontent.com/88610333/181162834-357ca3f5-9b18-4d1f-a868-22537b51a807.png">
 
-
+# 세로 가운데 정렬
 
 
 
