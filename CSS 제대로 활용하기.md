@@ -24,7 +24,11 @@
 <img width="778" alt="image" src="https://user-images.githubusercontent.com/88610333/181146132-ecab4558-38a9-49a0-8d3f-18d7aa60eaa9.png">
 
 # inline-block
+<img width="778" alt="image" src="https://user-images.githubusercontent.com/88610333/181146954-632422ee-f3a8-4e4e-9cc1-f9d2b4bb627c.png">
 
+# img 태그의 비밀
+* inline
+<img width="778" alt="image" src="https://user-images.githubusercontent.com/88610333/181159201-79a2d90b-3733-4ee8-bb71-95d7a24458e7.png">
 
 
 
