@@ -23,6 +23,7 @@
 <img width="778" alt="image" src="https://user-images.githubusercontent.com/88610333/181146097-c3eaae3d-76eb-4779-9587-8fb3ce3f5be6.png">
 <img width="778" alt="image" src="https://user-images.githubusercontent.com/88610333/181146132-ecab4558-38a9-49a0-8d3f-18d7aa60eaa9.png">
 
+# inline-block
 
 
 
