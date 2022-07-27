@@ -35,6 +35,7 @@
 <img width="778" alt="image" src="https://user-images.githubusercontent.com/88610333/181162834-357ca3f5-9b18-4d1f-a868-22537b51a807.png">
 
 # 세로 가운데 정렬
+<img width="556" alt="image" src="https://user-images.githubusercontent.com/88610333/181193233-cb47abae-b791-4299-bf46-ea16a4ffbe31.png">
 
 
 
